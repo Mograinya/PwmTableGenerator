@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwmTableGenerator", "arc_light_table\PwmTableGenerator.csproj", "{D754980D-CB12-4616-A225-AE131A00EBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D754980D-CB12-4616-A225-AE131A00EBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D754980D-CB12-4616-A225-AE131A00EBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D754980D-CB12-4616-A225-AE131A00EBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D754980D-CB12-4616-A225-AE131A00EBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57FDF5E2-BEEF-4C65-A1C9-70186D665F99}
+	EndGlobalSection
+EndGlobal
